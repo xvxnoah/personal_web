@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Noah Marquez Vara
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Computer Science student @ Universitat de Barcelona
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -14,7 +14,7 @@ baseurl: ""
 username: xvxnoah
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Computer Science student @ Universitat de Barcelona
 # email: Your E-Mail address for the email button.
 email: noahmv59@gmail.com
 # For every social button you want to display, set your username or userid
